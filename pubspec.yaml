@@ -1,6 +1,6 @@
 name: wizard
 description: If you can guess what was a weekday of random date a few times in a row, then you are a fucking Wizard!
-version: 0.0.0
+version: 0.0.1
 # homepage: https://www.example.com
 author: Anton Siluev <email@example.com>
 
